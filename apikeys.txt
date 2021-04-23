@@ -1,3 +1,0 @@
-openweather = bfe3651d709ea34e5fc59136856edaf6
-mailchimp = 1ac5fda4737b5572b668e68826d93237-us1
-	 list id = 7ee0a14ea4
